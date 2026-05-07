@@ -8,7 +8,8 @@ const config: CapacitorConfig = {
     // After deploying to Render, replace this URL with your actual Render URL
     // e.g. url: 'https://bpqg.onrender.com'
     // Leave commented out for local web builds
-    url: 'https://business-proposal-tyul.onrender.com',
+    url: 'https://business-proposal-quotation-generator-qurw.onrender.com';
+,
     cleartext: false,
     androidScheme: 'https'
   },
